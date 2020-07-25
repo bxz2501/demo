@@ -3,7 +3,11 @@ the second linea
 
 add anohter line
 
+<<<<<<< HEAD
 change on master
+=======
+try again
+>>>>>>> newfeature
 
 
 
